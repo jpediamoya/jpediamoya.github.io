@@ -1,0 +1,69 @@
+h1{
+ background: orange;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, sans-serif;
+    font-size: 24px; /* Ajusté el tamaño para hacerlo más visible */
+    font-weight: bold; /* Cambiado a bold para hacerlo más visible */
+    text-align: center;
+
+}
+
+.body {
+    font-family: Arial, sans-serif; /* Substitute with the actual font used */
+  }
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  .navigation-arrows {
+    font-size: 24px;
+    color: #777; /* Adjust the color to match the screenshot */
+  }
+  .content {
+    font-size: 50px; /* Adjust the size as needed */
+    color: #000; /* Adjust the color to match the text */
+  }
+  .emphasis {
+    font-style: italic; /* Could also be bold or a different color */
+  }
+  .link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 18px;
+    text-decoration: none; /* Assuming it's a styled link that doesn't look like a typical hyperlink */
+    color: #000; /* Adjust the color to match the screenshot */
+  }
+
+  .feverr{
+    margin-right: 150px;
+    font-size: 30px; /* Tamaño de la letra ajustable según tus preferencias */
+    font-weight: bold; /* Hace que el texto sea negrita */
+
+  }
+
+  .footer {
+    background-color: #f0f0f0;
+    padding-block: 40px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.social-icons {
+    margin-right: 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+.exaggerated-text {
+    font-size: 1.2em;
+
+}
